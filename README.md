@@ -8,3 +8,4 @@
 # Members
 | Avatar | Name | Role | Profile |
 |:---------:|:----------:|:-------------:|------:|
+| <img src="https://avatars.githubusercontent.com/u/107833299?v=4" width="80px">|  Priyanshu Acharya  |Member|[Github](https://github.com/PriyanshuAcharya)|
